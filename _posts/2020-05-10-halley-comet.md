@@ -1,4 +1,6 @@
 ---
+layout: blog
+comments: true
 published: false
 ---
 ### Halley's Comet on 8 March 1986 - 34 years ago
