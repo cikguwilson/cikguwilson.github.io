@@ -1,5 +1,7 @@
 ---
 published: false
+layout: post
+comments: true
 ---
 ## An Educational experiment that is a dozen (12) years old
 
