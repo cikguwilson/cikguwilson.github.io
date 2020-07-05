@@ -1,3 +1,10 @@
+---
+layout: post
+comments: true
+title: Question & Answer
+published: true
+---
+
 # Correction vs Judging
 
 ## Question: Is is true that when we correct others, it implies that we are judging others?
